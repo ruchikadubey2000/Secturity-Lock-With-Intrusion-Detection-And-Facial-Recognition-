@@ -1,0 +1,2 @@
+# Secturity-Lock-With-Intrusion-Detection-And-Facial-Recognition-
+Sometimes we will be in our offices or we may go out and our loved ones and friends may visit us. We may miss them as we don’t have any idea that someone has come to meet us. This project is integrated at the entrance.  we will train the raspberrypi  which will detect and give access and if there is an unknown then with the help of GSM module the user can be notified 
